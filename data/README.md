@@ -1,6 +1,6 @@
 
 Training sets :   
-We use ([Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340.pdf), NIPS 2015) to automatically construct our training set. [Generated CNN](https://drive.google.com/open?id=139TBsEWSniXg01UmHdl-iAMDSveQPIpq), [Generated Dailymail](https://drive.google.com/file/d/1S3D0y9cX017Vkg1WJclJnsga3beA1e4W/view?usp=sharing)  
+We use ([Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340.pdf), NIPS 2015) to automatically construct our training set. [Generated CNN](https://drive.google.com/open?id=139TBsEWSniXg01UmHdl-iAMDSveQPIpq) ||| [Generated Dailymail](https://drive.google.com/file/d/1S3D0y9cX017Vkg1WJclJnsga3beA1e4W/view?usp=sharing)  
   
     
     
